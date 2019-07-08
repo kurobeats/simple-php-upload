@@ -1,6 +1,6 @@
 <?php
 define("UPLOAD_DIR", "./");
-define("ERROR", "STOP! Error time! I have no idea what caused this." )
+define("ERROR", "STOP! Error time! I have no idea what caused this." );
 
 // The upload form
 if ($_SERVER["REQUEST_METHOD"] == "GET") {
